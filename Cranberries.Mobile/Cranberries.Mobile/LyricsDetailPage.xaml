@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Cranberries.Mobile.LyricsDetailPage">
+  <!--<StackLayout x:Name="lyricsStack">
+    --><!--<Label Text="{Binding Name}" FontAttributes="Bold" VerticalOptions="Center" HorizontalOptions="Center" />--><!--
+    --><!--<WebView x:Name="LyricsWebView" VerticalOptions="StartAndExpand">
+      
+    </WebView>--><!--
+  </StackLayout>-->
+  <StackLayout>
+  <WebView VerticalOptions="FillAndExpand" x:Name="WebViewLyrics">
+    <WebView.Source>
+      <HtmlWebViewSource Html="{Binding Html}" x:Name="HTMLSrc"/>
+    </WebView.Source>
+  </WebView>
+   <Label x:Name="LyricsName" HorizontalOptions="End" HorizontalTextAlignment="End"></Label>
+  </StackLayout>
+  
+</ContentPage>

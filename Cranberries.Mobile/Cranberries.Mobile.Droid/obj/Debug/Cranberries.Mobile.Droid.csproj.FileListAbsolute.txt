@@ -1,0 +1,246 @@
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Cranberries.Mobile.Droid.dll
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Cranberries.Mobile.Droid.pdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Cranberries.Mobile.Droid.apk
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Cranberries.Mobile.Droid-Signed.apk
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Cranberries.Mobile.dll
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\FormsViewGroup.dll
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Forms.Core.dll
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\System.Net.Http.dll
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Newtonsoft.Json.dll
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Cranberries.Mobile.pdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\FormsViewGroup.pdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\FormsViewGroup.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Forms.Core.xml
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\System.Net.Http.xml
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Newtonsoft.Json.xml
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\Cranberries.Mobile.Droid.csprojResolveAssemblyReference.cache
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\Cranberries.Mobile.Droid.dll
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\Cranberries.Mobile.Droid.pdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\bin\Cranberries.Mobile.Droid.apk
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\res\drawable\icon.png
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\res\drawable-hdpi\icon.png
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\res\layout\tabbar.xml
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\res\layout\toolbar.xml
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\res\values\styles.xml
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\R.cs.flag
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\uploadflags.txt
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Cranberries.Mobile.Droid.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Cranberries.Mobile.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Java.Interop.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Microsoft.CSharp.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Mono.Android.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Mono.CSharp.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\mscorlib.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\System.Core.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\System.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\System.Net.Http.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\System.Xml.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\Cranberries.Mobile.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\Cranberries.Mobile.Droid.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\System.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\Cranberries.Mobile.Droid.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Cranberries.Mobile.Droid.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Cranberries.Mobile.Droid.pdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Cranberries.Mobile.Droid.apk
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Cranberries.Mobile.Droid-Signed.apk
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Cranberries.Mobile.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\System.Net.Http.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Cranberries.Mobile.pdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Cranberries.Mobile.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\System.Net.Http.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\Cranberries.Mobile.Droid.csprojResolveAssemblyReference.cache
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\Cranberries.Mobile.Droid.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\Cranberries.Mobile.Droid.pdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\bin\Cranberries.Mobile.Droid.apk
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\res\layout\tabbar.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\res\layout\toolbar.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\res\values\styles.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\R.cs.flag
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\uploadflags.txt
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Cranberries.Mobile.Droid.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\mscorlib.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\System.Core.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\System.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\System.Xml.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\Cranberries.Mobile.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\Cranberries.Mobile.Droid.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\Cranberries.Mobile.Droid.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Cranberries.Mobile.Droid.dll
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Cranberries.Mobile.Droid.pdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Cranberries.Mobile.Droid.apk
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Cranberries.Mobile.Droid-Signed.apk
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Cranberries.Mobile.dll
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\FormsViewGroup.dll
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Forms.Core.dll
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\System.Net.Http.dll
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Newtonsoft.Json.dll
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Cranberries.Mobile.pdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\FormsViewGroup.pdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\FormsViewGroup.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Forms.Core.xml
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\System.Net.Http.xml
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Newtonsoft.Json.xml
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\Cranberries.Mobile.Droid.csprojResolveAssemblyReference.cache
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\Cranberries.Mobile.Droid.dll
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\Cranberries.Mobile.Droid.pdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\bin\Cranberries.Mobile.Droid.apk
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\res\drawable\icon.png
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\res\drawable-hdpi\icon.png
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\res\layout\tabbar.xml
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\res\layout\toolbar.xml
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\res\values\styles.xml
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\R.cs.flag
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\uploadflags.txt
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Cranberries.Mobile.Droid.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Cranberries.Mobile.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Java.Interop.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Microsoft.CSharp.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Mono.Android.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\Mono.CSharp.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\mscorlib.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\System.Core.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\System.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\System.Net.Http.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\System.Xml.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\Cranberries.Mobile.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\Cranberries.Mobile.Droid.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\System.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\Cranberries.Mobile.Droid.dll.mdb
+C:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\Cranberries.Mobile.Droid.csprojResolveAssemblyReference.cache
+C:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\Cranberries.Mobile.Droid.dll
+C:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile.Droid\obj\Debug\Cranberries.Mobile.Droid.pdb

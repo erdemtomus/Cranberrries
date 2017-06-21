@@ -1,0 +1,100 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   '-g',
+1 verbose cli   'yo',
+1 verbose cli   'generator-code' ]
+2 info using npm@2.15.9
+3 info using node@v4.5.0
+4 verbose install initial load of C:\Users\t40744\AppData\Roaming\npm\package.json
+5 verbose readDependencies loading dependencies from C:\Users\t40744\AppData\Roaming\npm\package.json
+6 silly cache add args [ 'yo', null ]
+7 verbose cache add spec yo
+8 silly cache add args [ 'generator-code', null ]
+9 verbose cache add spec generator-code
+10 silly cache add parsed spec Result {
+10 silly cache add   raw: 'yo',
+10 silly cache add   scope: null,
+10 silly cache add   name: 'yo',
+10 silly cache add   rawSpec: '',
+10 silly cache add   spec: 'latest',
+10 silly cache add   type: 'tag' }
+11 silly addNamed yo@latest
+12 verbose addNamed "latest" is being treated as a dist-tag for yo
+13 info addNameTag [ 'yo', 'latest' ]
+14 silly mapToRegistry name yo
+15 silly mapToRegistry using default registry
+16 silly mapToRegistry registry https://registry.npmjs.org/
+17 silly mapToRegistry data Result {
+17 silly mapToRegistry   raw: 'yo',
+17 silly mapToRegistry   scope: null,
+17 silly mapToRegistry   name: 'yo',
+17 silly mapToRegistry   rawSpec: '',
+17 silly mapToRegistry   spec: 'latest',
+17 silly mapToRegistry   type: 'tag' }
+18 silly mapToRegistry uri https://registry.npmjs.org/yo
+19 verbose addNameTag registry:https://registry.npmjs.org/yo not in flight; fetching
+20 silly cache add parsed spec Result {
+20 silly cache add   raw: 'generator-code',
+20 silly cache add   scope: null,
+20 silly cache add   name: 'generator-code',
+20 silly cache add   rawSpec: '',
+20 silly cache add   spec: 'latest',
+20 silly cache add   type: 'tag' }
+21 silly addNamed generator-code@latest
+22 verbose addNamed "latest" is being treated as a dist-tag for generator-code
+23 info addNameTag [ 'generator-code', 'latest' ]
+24 silly mapToRegistry name generator-code
+25 silly mapToRegistry using default registry
+26 silly mapToRegistry registry https://registry.npmjs.org/
+27 silly mapToRegistry data Result {
+27 silly mapToRegistry   raw: 'generator-code',
+27 silly mapToRegistry   scope: null,
+27 silly mapToRegistry   name: 'generator-code',
+27 silly mapToRegistry   rawSpec: '',
+27 silly mapToRegistry   spec: 'latest',
+27 silly mapToRegistry   type: 'tag' }
+28 silly mapToRegistry uri https://registry.npmjs.org/generator-code
+29 verbose addNameTag registry:https://registry.npmjs.org/generator-code not in flight; fetching
+30 verbose request uri https://registry.npmjs.org/yo
+31 verbose request no auth needed
+32 info attempt registry request try #1 at 08:57:39
+33 verbose request id fab81e28dfb4f159
+34 http request GET https://registry.npmjs.org/yo
+35 verbose request uri https://registry.npmjs.org/generator-code
+36 verbose request no auth needed
+37 info attempt registry request try #1 at 08:57:39
+38 http request GET https://registry.npmjs.org/generator-code
+39 info retry will retry, error on last attempt: Error: connect ETIMEDOUT 151.101.120.162:443
+40 info retry will retry, error on last attempt: Error: connect ETIMEDOUT 151.101.120.162:443
+41 info attempt registry request try #2 at 08:58:10
+42 http request GET https://registry.npmjs.org/yo
+43 info attempt registry request try #2 at 08:58:10
+44 http request GET https://registry.npmjs.org/generator-code
+45 info retry will retry, error on last attempt: Error: connect ETIMEDOUT 151.101.120.162:443
+46 info retry will retry, error on last attempt: Error: connect ETIMEDOUT 151.101.120.162:443
+47 info attempt registry request try #3 at 08:59:31
+48 http request GET https://registry.npmjs.org/generator-code
+49 info attempt registry request try #3 at 08:59:31
+50 http request GET https://registry.npmjs.org/yo
+51 verbose stack Error: connect ETIMEDOUT 151.101.120.162:443
+51 verbose stack     at Object.exports._errnoException (util.js:907:11)
+51 verbose stack     at exports._exceptionWithHostPort (util.js:930:20)
+51 verbose stack     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1077:14)
+52 verbose cwd D:\Workspace\Cranberrries
+53 error Windows_NT 6.3.9600
+54 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "-g" "yo" "generator-code"
+55 error node v4.5.0
+56 error npm  v2.15.9
+57 error code ETIMEDOUT
+58 error errno ETIMEDOUT
+59 error syscall connect
+60 error network connect ETIMEDOUT 151.101.120.162:443
+60 error network This is most likely not a problem with npm itself
+60 error network and is related to network connectivity.
+60 error network In most cases you are behind a proxy or have bad network settings.
+60 error network
+60 error network If you are behind a proxy, please make sure that the
+60 error network 'proxy' config is set properly.  See: 'npm help config'
+61 verbose exit [ 1, true ]

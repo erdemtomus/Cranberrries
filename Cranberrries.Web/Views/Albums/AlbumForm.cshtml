@@ -1,0 +1,61 @@
+﻿@using System.Activities.Expressions
+@model Cranberrries.Web.Models.Album
+
+
+<h2> Yeni Albüm </h2>
+@using (Html.BeginForm("Kaydet", "Albums", FormMethod.Post, new { id = "AlbumForm" }))
+{
+    @Html.ValidationSummary(true, "Lütfen Hataları Düzeltiniz")
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Name)
+        @Html.TextBoxFor(m => m.Name, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Name, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group" style="width: 25%">
+        @Html.LabelFor(m => m.ReleasedDate)
+        <div class="input-group" id="dateTime">
+            @Html.EditorFor(m => m.ReleasedDate, new {htmlAttributes = new {@class = "form-control", @type = "text"} })
+            <span class="input-group-addon">
+                <span class="fa fa-calendar">
+                </span>
+            </span>
+        </div>
+        @Html.ValidationMessageFor(m => m.ReleasedDate, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.AlbumPhotoUrl)
+        @Html.TextBoxFor(m => m.AlbumPhotoUrl, new { @class = "form-control" })
+    </div>
+
+    @Html.HiddenFor(m => m.Id);
+
+    <button type="submit" class="btn btn-default">Kaydet</button>
+}
+
+
+@section scripts
+        {
+    <script>
+        $(document).ready(function () {
+
+            $('#dateTime').datetimepicker({
+                format: 'DD/MM/YYYY',
+                locale: 'tr',
+                icons: {
+                    time: "fa fa-clock-o",
+                    date: "fa fa-calendar",
+                    up: "fa fa-arrow-up",
+                    down: "fa fa-arrow-down"
+                }
+            });
+
+            $('#ReleasedDate').removeAttr("data-val-date");
+            //$('#ReleasedDate').removeAttr("data-val");
+
+        });
+    </script>
+}

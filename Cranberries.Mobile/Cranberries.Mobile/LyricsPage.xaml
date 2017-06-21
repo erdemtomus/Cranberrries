@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage  xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Cranberries.Mobile.LyricsPage">
+
+  <ListView x:Name="SongsListView" HasUnevenRows="True" ItemSelected="SongsListView_OnItemSelected">
+    <ListView.ItemTemplate>
+      <DataTemplate>
+        <ViewCell>
+          <StackLayout Orientation="Horizontal" Padding="15,5,5,5" HorizontalOptions="StartAndExpand">
+            <Label Text="{Binding Id}" FontAttributes="Italic" TextColor="Gray"></Label>
+            <Label Text="{Binding Name}" FontAttributes="Bold" VerticalOptions="EndAndExpand"></Label>
+            <!--<StackLayout HorizontalOptions="StartAndExpand">
+              <Label Text="{Binding Name}"></Label>
+              --><!--<Label Text="{Binding Lyrics}"></Label>--><!--
+              
+            </StackLayout>-->
+            <!--<Button Text="Songs" Clicked="Button_OnClicked"></Button>-->
+          </StackLayout>
+        </ViewCell>
+      </DataTemplate>
+    </ListView.ItemTemplate>
+  </ListView>
+
+  
+  
+</ContentPage>

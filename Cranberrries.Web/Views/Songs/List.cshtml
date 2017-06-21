@@ -1,0 +1,46 @@
+﻿@using Cranberrries.Web.Models
+@using Microsoft.AspNet.Identity
+@model List<Song>
+
+@{
+    ViewBag.Title = "Tüm Şarkılar";
+}
+
+<table class="table table-striped table-hover dataTable">
+    <thead>
+        <tr>
+            <th>Ad</th>
+            <th>Albüm Ad</th>
+            <th>Kapak Foto</th>
+            <th>Writer User</th>
+            <th>Aksiyon</th>
+        </tr>
+    </thead>
+    <tbody>
+        
+    @foreach (Song song in Model)
+        {
+            <tr>
+                <td>@song.Name</td>
+                <td>@song.Album.Name</td>
+                <td><img src="@song.Album.AlbumPhotoUrl" width="25" height="25" /></td>
+                <td>@song.UserId</td>
+                <td><a href="/Songs/Detail/@song.Id">Lyrics</a> <a href="/Songs/Edit/@song.Id">Düzenle</a></td>
+            </tr>
+        }
+    </tbody>
+
+</table>
+
+<div>
+    <a href="/Songs/Ekle" class="btn btn-warning">Yeni Şarkı</a>
+</div>
+
+
+<script src="~/Scripts/jquery-3.1.1.min.js"></script>
+<script>
+    
+    $(document).ready(function () {
+        $(".dataTable").DataTable();
+    });
+</script>

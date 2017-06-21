@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Cranberries.Mobile.AlbumsPage" Padding="0,20,0,0" Title="Discography">
+  
+  <ListView x:Name="AlbumsListView" HasUnevenRows="True" ItemSelected="AlbumsListView_OnItemSelected">
+    <ListView.ItemTemplate>
+      <DataTemplate>
+        <ViewCell>
+          <StackLayout Orientation="Horizontal" Padding="5">
+            <Image Source="{Binding AlbumPhotoUrl}"/>
+            <StackLayout HorizontalOptions="StartAndExpand">
+              <Label Text="{Binding Name}"></Label>
+              <Label Text="{Binding ReleasedDate,StringFormat='{0:d}'}" TextColor="Gray"></Label>
+            </StackLayout>
+            <!--<Button Text="Songs" Clicked="Button_OnClicked"></Button>-->
+          </StackLayout>
+        </ViewCell>
+      </DataTemplate>
+    </ListView.ItemTemplate>
+  </ListView>
+
+  
+</ContentPage>

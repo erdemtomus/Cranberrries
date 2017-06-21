@@ -1,0 +1,65 @@
+﻿@using Cranberrries.Web.Models
+@using Cranberrries.Web.ViewModel
+@model SongFormViewModel
+
+
+
+
+<h2> Yeni Şarkı </h2>
+@using (Html.BeginForm("Save", "Songs", FormMethod.Post, new { id = "SongForm" }))
+{
+    @Html.ValidationSummary(true, "Lütfen Hataları Düzeltiniz")
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        <div class="col-md-1">@Html.LabelFor(m => m.Song.Name)</div>
+        <div class="col-md-3">@Html.TextBoxFor(m => m.Song.Name, new { @class = "form-control" })</div>
+        <div class="col-md-1">@Html.LabelFor(m => m.Song.AlbumId)</div>
+        <div class="col-md-3">@Html.DropDownListFor(m => m.Song.AlbumId, new SelectList(Model.Albums, "Id", "Name"), "Choose Album", new { @class = "form-control" })</div>
+        <div class="col-md-1">@Html.LabelFor(m => m.Song.UserId)</div>
+        <div class="col-md-3">@Html.DropDownListFor(m => m.Song.UserId, new SelectList(Model.SongWriters, "Id", "UserName"), "Choose Writer", new { @class = "form-control" })</div>
+        <div class="col-md-12">
+            @Html.ValidationMessageFor(m => m.Song.Name, "", new { @class = "text-danger" })
+            @Html.ValidationMessageFor(m => m.Song.AlbumId, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-12">
+
+            @Html.LabelFor(m => m.Song.Lyrics)
+            @*<div id="Lyrics" class="summernote" Name="Lyrics">@Model.Song.Lyrics</div>*@
+            @Html.TextAreaFor(m => m.Song.Lyrics, new { @class = "form-control", @row = 10 })
+
+            @*@Html.EditorFor(m => m.Song.Lyrics, new { @class = "form-control", @id = "summernote" })*@
+            @Html.ValidationMessageFor(m => m.Song.Lyrics, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+
+    <div class="form-group">
+        <div class="col-md-2">
+            @Html.HiddenFor(m => m.Song.Id)
+            <button type="submit" class="btn btn-primary">Save</button>
+        </div>
+    </div>
+}
+
+        <link href="~/Content/summernote/summernote.css" rel="stylesheet" />
+
+        @section scripts
+{
+            <script src="~/Content/summernote/summernote.js"></script>
+            <script>
+                $(document).ready(function () {
+                    $('#Song_Lyrics').summernote({
+                        focus: true,
+                        height: 600,
+                        codemirror: {
+                            theme: 'united'
+                        }
+                    });
+
+                });
+            </script>
+        }

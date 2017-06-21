@@ -1,0 +1,81 @@
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Cranberries.Mobile.dll
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Cranberries.Mobile.pdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Newtonsoft.Json.dll
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\System.Net.Http.dll
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Xamarin.Forms.Core.dll
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Newtonsoft.Json.xml
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\System.Net.Http.xml
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Xamarin.Forms.Core.xml
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\obj\Debug\Cranberries.Mobile.AlbumsPage.xaml.g.cs
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\obj\Debug\Cranberries.Mobile.dll
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\obj\Debug\Cranberries.Mobile.pdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\obj\Debug\Cranberries.Mobile.csprojResolveAssemblyReference.cache
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\obj\Debug\Cranberries.Mobile.dll.mdb
+D:\Workspace\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Cranberries.Mobile.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\obj\Debug\Cranberries.Mobile.csprojResolveAssemblyReference.cache
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\obj\Debug\Cranberries.Mobile.AlbumsPage.xaml.g.cs
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\obj\Debug\Cranberries.Mobile.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\obj\Debug\Cranberries.Mobile.pdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Cranberries.Mobile.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Cranberries.Mobile.pdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Newtonsoft.Json.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\System.Net.Http.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Newtonsoft.Json.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\System.Net.Http.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\obj\Debug\Cranberries.Mobile.dll.mdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Cranberries.Mobile.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Cranberries.Mobile.dll
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Cranberries.Mobile.pdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Newtonsoft.Json.dll
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\System.Net.Http.dll
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Xamarin.Forms.Core.dll
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Newtonsoft.Json.xml
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\System.Net.Http.xml
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Xamarin.Forms.Core.xml
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\obj\Debug\Cranberries.Mobile.AlbumsPage.xaml.g.cs
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\obj\Debug\Cranberries.Mobile.LyricsPage.xaml.g.cs
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\obj\Debug\Cranberries.Mobile.LyricsDetailPage.xaml.g.cs
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\obj\Debug\Cranberries.Mobile.dll
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\obj\Debug\Cranberries.Mobile.pdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\obj\Debug\Cranberries.Mobile.dll.mdb
+D:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Cranberries.Mobile.dll.mdb
+C:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Cranberries.Mobile.dll
+C:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Cranberries.Mobile.pdb
+C:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Newtonsoft.Json.dll
+C:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\System.Net.Http.dll
+C:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Xamarin.Forms.Core.dll
+C:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Newtonsoft.Json.xml
+C:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\System.Net.Http.xml
+C:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Xamarin.Forms.Core.xml
+C:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\obj\Debug\Cranberries.Mobile.csprojResolveAssemblyReference.cache
+C:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\obj\Debug\Cranberries.Mobile.AlbumsPage.xaml.g.cs
+C:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\obj\Debug\Cranberries.Mobile.LyricsPage.xaml.g.cs
+C:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\obj\Debug\Cranberries.Mobile.LyricsDetailPage.xaml.g.cs
+C:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\obj\Debug\Cranberries.Mobile.dll
+C:\Xamarin\Cranberrries\Cranberries.Mobile\Cranberries.Mobile\obj\Debug\Cranberries.Mobile.pdb

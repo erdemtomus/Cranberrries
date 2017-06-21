@@ -1,0 +1,424 @@
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\roslyn\csc.exe
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\roslyn\csc.exe.config
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\roslyn\csc.rsp
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\roslyn\csi.exe
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\roslyn\csi.rsp
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\roslyn\System.AppContext.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\roslyn\vbc.exe
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\roslyn\vbc.exe.config
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\roslyn\vbc.rsp
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\roslyn\VBCSCompiler.exe
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\Cranberrries.Web.dll.config
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\Cranberrries.Web.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\Cranberrries.Web.pdb
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\Antlr3.Runtime.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\AutoMapper.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\EntityFramework.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\EntityFramework.SqlServer.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\Newtonsoft.Json.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\Owin.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\System.Net.Http.Formatting.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\System.Web.Helpers.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\System.Web.Http.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\System.Web.Http.WebHost.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\System.Web.Mvc.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\System.Web.Optimization.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\System.Web.Razor.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\System.Web.WebPages.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\System.Web.WebPages.Razor.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\WebGrease.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\Antlr3.Runtime.pdb
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\AutoMapper.xml
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\Newtonsoft.Json.xml
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\System.Net.Http.Formatting.xml
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\System.Web.Http.xml
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\System.Web.Http.WebHost.xml
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\System.Web.Helpers.xml
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\System.Web.Mvc.xml
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\System.Web.Optimization.xml
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\System.Web.Razor.xml
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\System.Web.WebPages.xml
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\System.Web.WebPages.Razor.xml
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\EntityFramework.xml
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\EntityFramework.SqlServer.xml
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.xml
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.xml
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Workspace\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.csprojResolveAssemblyReference.cache
+D:\Workspace\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.Migrations.InitialModel.resources
+D:\Workspace\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.Migrations.HtmlStringUpdate.resources
+D:\Workspace\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.Migrations.UserIdtoString.resources
+D:\Workspace\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.Migrations.SeedUsers.resources
+D:\Workspace\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.Migrations.AlbumAdded.resources
+D:\Workspace\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.Migrations.AllowHtmlToSongLyrics.resources
+D:\Workspace\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.Migrations.RequiredToSongAlbumId.resources
+D:\Workspace\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.Migrations.RequiredLyrics.resources
+D:\Workspace\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.Migrations.UserRelation.resources
+D:\Workspace\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.csproj.GenerateResource.Cache
+D:\Workspace\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.pdb
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\System.Net.Http.Extensions.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\System.Net.Http.Primitives.dll
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\System.Net.Http.Extensions.xml
+D:\Workspace\Cranberrries\Cranberrries.Web\bin\System.Net.Http.Primitives.xml
+D:\Workspace\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.csproj.App.config
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\roslyn\csc.exe
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\roslyn\csc.exe.config
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\roslyn\csc.rsp
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\roslyn\csi.exe
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\roslyn\csi.rsp
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\roslyn\System.AppContext.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\roslyn\vbc.exe
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\roslyn\vbc.exe.config
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\roslyn\vbc.rsp
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\Cranberrries.Web.dll.config
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\Cranberrries.Web.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\Cranberrries.Web.pdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\Antlr3.Runtime.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\AutoMapper.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\EntityFramework.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\Newtonsoft.Json.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\Owin.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\System.Web.Helpers.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\System.Web.Http.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\System.Web.Mvc.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\System.Web.Optimization.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\System.Web.Razor.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\System.Web.WebPages.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\WebGrease.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\Antlr3.Runtime.pdb
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\AutoMapper.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\Newtonsoft.Json.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\System.Net.Http.Extensions.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\System.Net.Http.Primitives.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\System.Web.Http.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\System.Web.Helpers.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\System.Web.Mvc.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\System.Web.Optimization.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\System.Web.Razor.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\System.Web.WebPages.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\EntityFramework.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.csproj.App.config
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.csprojResolveAssemblyReference.cache
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.Migrations.InitialModel.resources
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.Migrations.HtmlStringUpdate.resources
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.Migrations.UserIdtoString.resources
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.Migrations.SeedUsers.resources
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.Migrations.AlbumAdded.resources
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.Migrations.AllowHtmlToSongLyrics.resources
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.Migrations.RequiredToSongAlbumId.resources
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.Migrations.RequiredLyrics.resources
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.Migrations.UserRelation.resources
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.csproj.GenerateResource.Cache
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.dll
+C:\Users\t40744\Amazon Drive\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.pdb
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\csc.exe
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\csc.exe.config
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\csc.rsp
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\csi.exe
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\csi.rsp
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\System.AppContext.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\vbc.exe
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\vbc.exe.config
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\vbc.rsp
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\VBCSCompiler.exe
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\Cranberrries.Web.dll.config
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\Cranberrries.Web.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\Cranberrries.Web.pdb
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\Antlr3.Runtime.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\AutoMapper.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\EntityFramework.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\EntityFramework.SqlServer.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\Newtonsoft.Json.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\Owin.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Net.Http.Extensions.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Net.Http.Formatting.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Net.Http.Primitives.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Web.Helpers.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Web.Http.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Web.Http.WebHost.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Web.Mvc.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Web.Optimization.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Web.Razor.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Web.WebPages.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Web.WebPages.Razor.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\WebGrease.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\Antlr3.Runtime.pdb
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\AutoMapper.xml
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\Newtonsoft.Json.xml
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Net.Http.Extensions.xml
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Net.Http.Formatting.xml
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Net.Http.Primitives.xml
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Web.Http.xml
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Web.Http.WebHost.xml
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Web.Helpers.xml
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Web.Mvc.xml
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Web.Optimization.xml
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Web.Razor.xml
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Web.WebPages.xml
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Web.WebPages.Razor.xml
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\EntityFramework.xml
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\EntityFramework.SqlServer.xml
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.xml
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.xml
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Xamarin\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.csproj.App.config
+D:\Xamarin\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.Migrations.InitialModel.resources
+D:\Xamarin\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.Migrations.HtmlStringUpdate.resources
+D:\Xamarin\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.Migrations.UserIdtoString.resources
+D:\Xamarin\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.Migrations.SeedUsers.resources
+D:\Xamarin\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.Migrations.AlbumAdded.resources
+D:\Xamarin\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.Migrations.AllowHtmlToSongLyrics.resources
+D:\Xamarin\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.Migrations.RequiredToSongAlbumId.resources
+D:\Xamarin\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.Migrations.RequiredLyrics.resources
+D:\Xamarin\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.Migrations.UserRelation.resources
+D:\Xamarin\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.csproj.GenerateResource.Cache
+D:\Xamarin\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.dll
+D:\Xamarin\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.pdb
+D:\Xamarin\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.csprojResolveAssemblyReference.cache
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\csc.exe
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\csc.exe.config
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\csc.rsp
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\csi.exe
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\csi.rsp
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\System.AppContext.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\vbc.exe
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\vbc.exe.config
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\vbc.rsp
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\VBCSCompiler.exe
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\Cranberrries.Web.dll.config
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\Cranberrries.Web.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\Cranberrries.Web.pdb
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\Antlr3.Runtime.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\AutoMapper.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\EntityFramework.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\EntityFramework.SqlServer.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\Newtonsoft.Json.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\Owin.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Net.Http.Extensions.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Net.Http.Formatting.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Net.Http.Primitives.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Web.Helpers.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Web.Http.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Web.Http.WebHost.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Web.Mvc.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Web.Optimization.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Web.Razor.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Web.WebPages.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Web.WebPages.Razor.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\WebGrease.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\Antlr3.Runtime.pdb
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\AutoMapper.xml
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\Newtonsoft.Json.xml
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Net.Http.Extensions.xml
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Net.Http.Formatting.xml
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Net.Http.Primitives.xml
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Web.Http.xml
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Web.Http.WebHost.xml
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Web.Helpers.xml
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Web.Mvc.xml
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Web.Optimization.xml
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Web.Razor.xml
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Web.WebPages.xml
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\System.Web.WebPages.Razor.xml
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\EntityFramework.xml
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\EntityFramework.SqlServer.xml
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.xml
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.xml
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Xamarin\Cranberrries\Cranberrries.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Xamarin\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.csproj.App.config
+C:\Xamarin\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.csprojResolveAssemblyReference.cache
+C:\Xamarin\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.Migrations.InitialModel.resources
+C:\Xamarin\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.Migrations.HtmlStringUpdate.resources
+C:\Xamarin\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.Migrations.UserIdtoString.resources
+C:\Xamarin\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.Migrations.SeedUsers.resources
+C:\Xamarin\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.Migrations.AlbumAdded.resources
+C:\Xamarin\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.Migrations.AllowHtmlToSongLyrics.resources
+C:\Xamarin\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.Migrations.RequiredToSongAlbumId.resources
+C:\Xamarin\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.Migrations.RequiredLyrics.resources
+C:\Xamarin\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.Migrations.UserRelation.resources
+C:\Xamarin\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.csproj.GenerateResource.Cache
+C:\Xamarin\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.dll
+C:\Xamarin\Cranberrries\Cranberrries.Web\obj\Debug\Cranberrries.Web.pdb

@@ -1,0 +1,32 @@
+﻿@model Cranberrries.Web.ViewModel.SongFormDetailViewModel
+
+
+
+<div class="row">
+    <div class="col-md-6 text-success">
+        <h2>@Model.Song.Name</h2>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-9 text-warning">
+        @Html.Raw(Model.Song.Lyrics)
+    </div>
+    <div class="col-md-3">
+        <div class="row">
+            <img src="@Model.Album.AlbumPhotoUrl" />
+        </div>
+        <div class="row">
+            <br/>
+            <p class="text-info">@Model.Song.Name</p>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <blockquote class="blockquote-reverse">
+        <p class="text-danger">@Model.Album.Name</p>
+        <small>@(Model.Album.ReleasedDate.HasValue ? Model.Album.ReleasedDate.Value.ToShortDateString() : null)</small>
+        <small>@*@Model.User.UserName*@</small>
+    </blockquote>
+</div>
+
+

@@ -1,0 +1,30 @@
+﻿@using Cranberrries.Web.Models
+@model List<Cranberrries.Web.Models.Album>
+
+@{
+    ViewBag.Title = "Tüm Albümler";
+}
+
+<h2>Albümler</h2>
+
+<table class="table table-striped table-hover">
+    <thead>
+    <tr>
+        <th>Ad</th>
+        <th>Yayın Tarihi</th>
+        <th>Kapak Foto</th>
+    </tr>
+    </thead>
+    <tbody>
+
+    @foreach (Album album in Model)
+    {
+        <tr>
+            <td>@album.Name</td>
+            <td>@(album.ReleasedDate.HasValue ? album.ReleasedDate.Value.ToShortDateString() : null )</td>
+            <td><img src="@album.AlbumPhotoUrl" /></td>
+        </tr>
+    }
+    </tbody>
+
+</table>
